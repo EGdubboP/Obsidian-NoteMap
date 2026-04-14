@@ -1,0 +1,8 @@
+node_modules/
+main.js
+dist/
+
+Documentation/
+Reference/
+.claude/
+CLAUDE.md

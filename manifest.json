@@ -1,0 +1,9 @@
+{
+  "id": "obsidian-notemap",
+  "name": "NoteMap",
+  "version": "0.1.0",
+  "minAppVersion": "1.0.0",
+  "description": "노트와 마인드맵을 결합한 공부 정리용 캔버스 플러그인",
+  "author": "EGdubboP",
+  "isDesktopOnly": true
+}
